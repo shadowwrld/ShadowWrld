@@ -1,6 +1,6 @@
 
 
-[![SHADOW-WRLD](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+SHADOOW-WRLD;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+HAITI;Nice+to+Meet+You)](https://github.com/ShadowWrld)
+[![SHADOW-WRLD](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+SHADOOW-WRLD;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+HAITI;Nice+to+Meet+You)](https://github.com/shadowwrld)
 
 
 ![My card name](https://cardivo.vercel.app/api?name=SHADOW%20WRLD%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/ShadowWrld.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=shadowwrld1&github=ShadowWrld&)
