@@ -7,7 +7,7 @@
 </p>
 <p> <b>Connect With me:</b></p>
 <p>
-<a href="https://wa.me/2250574092047"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/juicew.r.l.d1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a>
+<a href="https://wa.me/2250574092047"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/itxxshadow"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a>
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouricedevs&label=Visitors%20count&color=10d9c3&style=plastic" alt="Shadow Tech" /> </p>
